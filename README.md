@@ -1,2 +1,2 @@
 # My_first_project1
-Beginner codes
+Beginner codes help with resource.
